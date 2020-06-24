@@ -27,3 +27,5 @@ Adaptation les methodes (Shipping / Paiement..)
 Ajout des produits
 
 Ajout plugin multilingue Translate
+
+Ajout Yoast SEO
